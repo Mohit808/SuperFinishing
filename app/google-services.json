@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1013844169170",
+    "project_id": "superfinishing-613a1",
+    "storage_bucket": "superfinishing-613a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013844169170:android:838c1e150aa06d8f29f80b",
+        "android_client_info": {
+          "package_name": "com.superfinishing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013844169170-l946e38o3clpcpffb6i7crdl59fq6adt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeTc0aeSFepuMzO_GKOKV9qg9FxCruDWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013844169170-l946e38o3clpcpffb6i7crdl59fq6adt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
